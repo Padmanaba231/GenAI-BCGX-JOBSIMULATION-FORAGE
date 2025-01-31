@@ -2,6 +2,15 @@
 This repository contains my submission for the GenAI BCGX Job Simulation on Forage. The project covers the end-to-end data science workflow, starting from finance report scraping 📊 to data analysis 📈 and using Generative AI 🧠 to build a Chatbot model 💬 for information retrieval.
 
 ## Project Overview 🌍
+BCG GenAI Job Simulation on Forage - January 2025
+ * Completed a job simulation involving AI-powered financial chatbot development
+   for BCG's GenAI Consulting team.
+ * Gained experience in Python programming, including the use of libraries such
+   as pandas for data manipulation.
+ * Integrated and interpreted complex financial data from 10-K and 10-Q reports,
+   employing a chatbot that provides user-friendly
+   financial insights and analysis.
+
 The goal of this project was to simulate a real-world data science task for Boston Consulting Group. The workflow includes the following steps:
 <br>
   1️⃣ **Data Collection** 📑 : Reading financial reports and collecting necessary data.
