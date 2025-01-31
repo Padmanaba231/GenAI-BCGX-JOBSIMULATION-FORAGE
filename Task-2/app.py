@@ -15,7 +15,7 @@ def read_financial_data(csv_path):
     return df.to_json(orient="records", lines=True)
 
 # Membaca data CSV dan mengubahnya menjadi JSON
-financial_data_json = read_financial_data('.\Task-2\Final_Data.csv')
+financial_data_json = read_financial_data('./Task-2/Final_Data.csv')
 
 
 # Buat konfigurasi model
